@@ -1,0 +1,10 @@
+import java.util.*;
+public class Passport{
+  void m1(){
+    Scanner sc = new Scanner(System.in);
+    System.out.println("Enter name of the applicant");
+    String name =sc.nextLine();
+    System.out.println("Enter address of the applicant");
+    String address=sc.nextLine();
+  }
+}
